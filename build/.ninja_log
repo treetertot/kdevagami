@@ -1,0 +1,10 @@
+# ninja log v5
+0	332	1643428696516342121	build.ninja	6243d521912d950c
+0	18	1643414687445947875	src/kdevagami_autogen/timestamp	98d61abc27ca4429
+0	18	1643414687445947875	src/kdevagami_autogen/mocs_compilation.cpp	98d61abc27ca4429
+0	18	1643414687445947875	/home/josh/Documents/kirilearni/kdevagami/build/src/kdevagami_autogen/timestamp	98d61abc27ca4429
+0	18	1643414687445947875	/home/josh/Documents/kirilearni/kdevagami/build/src/kdevagami_autogen/mocs_compilation.cpp	98d61abc27ca4429
+23	27	1643410460895725458	src/qrc_resources.cpp	a61cb45c5f9edcfc
+28	46	1643410460912390970	src/CMakeFiles/kdevagami.dir/qrc_resources.cpp.o	4869849d9290bb87
+23	27	1643410460895725458	/home/josh/Documents/kirilearni/kdevagami/build/src/qrc_resources.cpp	a61cb45c5f9edcfc
+27	37	1643410460905724765	src/CMakeFiles/kdevagami.dir/kdevagami_autogen/mocs_compilation.cpp.o	a4777b5a518982bb

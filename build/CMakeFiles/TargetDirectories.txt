@@ -1,0 +1,13 @@
+/home/josh/Documents/kirilearni/kdevagami/build/CMakeFiles/uninstall.dir
+/home/josh/Documents/kirilearni/kdevagami/build/CMakeFiles/fetch-translations.dir
+/home/josh/Documents/kirilearni/kdevagami/build/CMakeFiles/KF5I18n_QCH.dir
+/home/josh/Documents/kirilearni/kdevagami/build/CMakeFiles/KF5CoreAddons_QCH.dir
+/home/josh/Documents/kirilearni/kdevagami/build/CMakeFiles/test.dir
+/home/josh/Documents/kirilearni/kdevagami/build/CMakeFiles/edit_cache.dir
+/home/josh/Documents/kirilearni/kdevagami/build/CMakeFiles/rebuild_cache.dir
+/home/josh/Documents/kirilearni/kdevagami/build/src/CMakeFiles/kdevagami.dir
+/home/josh/Documents/kirilearni/kdevagami/build/src/CMakeFiles/test.dir
+/home/josh/Documents/kirilearni/kdevagami/build/src/CMakeFiles/edit_cache.dir
+/home/josh/Documents/kirilearni/kdevagami/build/src/CMakeFiles/rebuild_cache.dir
+/home/josh/Documents/kirilearni/kdevagami/build/src/CMakeFiles/kdevagami_autogen_timestamp_deps.dir
+/home/josh/Documents/kirilearni/kdevagami/build/src/CMakeFiles/kdevagami_autogen.dir

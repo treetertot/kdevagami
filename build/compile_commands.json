@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/josh/Documents/kirilearni/kdevagami/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -D_GNU_SOURCE -D_LARGEFILE64_SOURCE -I/home/josh/Documents/kirilearni/kdevagami/build/src -I/home/josh/Documents/kirilearni/kdevagami/src -I/home/josh/Documents/kirilearni/kdevagami/build/src/kdevagami_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui  -fno-operator-names -fno-exceptions -Wall -Wextra -Wcast-align -Wchar-subscripts -Wformat-security -Wno-long-long -Wpointer-arith -Wundef -Wnon-virtual-dtor -Woverloaded-virtual -Werror=return-type -Werror=init-self -Wvla -Wdate-time -Wsuggest-override -Wlogical-op -fdiagnostics-color=always -g -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=gnu++17 -o src/CMakeFiles/kdevagami.dir/kdevagami_autogen/mocs_compilation.cpp.o -c /home/josh/Documents/kirilearni/kdevagami/build/src/kdevagami_autogen/mocs_compilation.cpp",
+  "file": "/home/josh/Documents/kirilearni/kdevagami/build/src/kdevagami_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/josh/Documents/kirilearni/kdevagami/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -D_GNU_SOURCE -D_LARGEFILE64_SOURCE -I/home/josh/Documents/kirilearni/kdevagami/build/src -I/home/josh/Documents/kirilearni/kdevagami/src -I/home/josh/Documents/kirilearni/kdevagami/build/src/kdevagami_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui  -fno-operator-names -fno-exceptions -Wall -Wextra -Wcast-align -Wchar-subscripts -Wformat-security -Wno-long-long -Wpointer-arith -Wundef -Wnon-virtual-dtor -Woverloaded-virtual -Werror=return-type -Werror=init-self -Wvla -Wdate-time -Wsuggest-override -Wlogical-op -fdiagnostics-color=always -g -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=gnu++17 -o src/CMakeFiles/kdevagami.dir/main.cpp.o -c /home/josh/Documents/kirilearni/kdevagami/src/main.cpp",
+  "file": "/home/josh/Documents/kirilearni/kdevagami/src/main.cpp"
+},
+{
+  "directory": "/home/josh/Documents/kirilearni/kdevagami/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -D_GNU_SOURCE -D_LARGEFILE64_SOURCE -I/home/josh/Documents/kirilearni/kdevagami/build/src -I/home/josh/Documents/kirilearni/kdevagami/src -I/home/josh/Documents/kirilearni/kdevagami/build/src/kdevagami_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtGui  -fno-operator-names -fno-exceptions -Wall -Wextra -Wcast-align -Wchar-subscripts -Wformat-security -Wno-long-long -Wpointer-arith -Wundef -Wnon-virtual-dtor -Woverloaded-virtual -Werror=return-type -Werror=init-self -Wvla -Wdate-time -Wsuggest-override -Wlogical-op -fdiagnostics-color=always -g -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=gnu++17 -o src/CMakeFiles/kdevagami.dir/qrc_resources.cpp.o -c /home/josh/Documents/kirilearni/kdevagami/build/src/qrc_resources.cpp",
+  "file": "/home/josh/Documents/kirilearni/kdevagami/build/src/qrc_resources.cpp"
+}
+]

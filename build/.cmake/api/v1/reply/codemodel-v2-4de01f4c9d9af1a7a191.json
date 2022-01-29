@@ -1,0 +1,133 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						6
+					]
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "helloworld",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KF5CoreAddons_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF5CoreAddons_QCH-Debug-d2634ed1ade81dacc8b0.json",
+					"name" : "KF5CoreAddons_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KF5I18n_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF5I18n_QCH-Debug-803fa1a31ae0a52a7fcd.json",
+					"name" : "KF5I18n_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fetch-translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fetch-translations-Debug-8ead6f9967351a68ea58.json",
+					"name" : "fetch-translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kdevagami::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kdevagami-Debug-9b5ca47210e2e517e099.json",
+					"name" : "kdevagami",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kdevagami_autogen::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kdevagami_autogen-Debug-f9494e4abc031c2ff5bb.json",
+					"name" : "kdevagami_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kdevagami_autogen_timestamp_deps::@145eef247bfb46b6828c",
+					"jsonFile" : "target-kdevagami_autogen_timestamp_deps-Debug-62e489f75642aa737a34.json",
+					"name" : "kdevagami_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-440380b9a80def120416.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/josh/Documents/kirilearni/kdevagami/build",
+		"source" : "/home/josh/Documents/kirilearni/kdevagami"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
